@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spartanwaldo
 - 👀 I’m interested in Bash, Powershell and Python
-- 🌱 I’m currently learning PowerShell and Python
+- 🌱 I’m currently interested in learning Python
 - 💞️ I’m looking to collaborate on automation
 - 📫 How to reach me masonwaldon@hotmail.com
 
